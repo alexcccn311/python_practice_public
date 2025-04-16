@@ -1,5 +1,3 @@
-# 作者：Alex
-# 2024/12/20 16:31
 import torch
 import torchvision
 

@@ -1,5 +1,3 @@
-# 作者：Alex
-# 2025/1/9 04:55
 import torch
 
 a = torch.randn(4,3, 28,28)

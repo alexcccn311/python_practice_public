@@ -1,5 +1,3 @@
-# 作者：Alex
-# 2024/12/17 15:35
 import pickle
 import random
 import numpy as np

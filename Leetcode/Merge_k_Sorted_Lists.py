@@ -1,5 +1,3 @@
-# 作者：Alex
-# 2025/4/5 21:25
 from typing import List, Optional
 
 class ListNode:

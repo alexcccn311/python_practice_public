@@ -1,5 +1,3 @@
-# 作者：Alex
-# 2024/10/15 16:47
 # Definition for singly-linked list.
 
 from typing import Optional

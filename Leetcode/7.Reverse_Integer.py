@@ -1,5 +1,3 @@
-# 作者：Alex
-# 2024/10/27 02:21
 class Solution:
     def reverse(self, x: int) -> int:
         x_str= str(abs(x))

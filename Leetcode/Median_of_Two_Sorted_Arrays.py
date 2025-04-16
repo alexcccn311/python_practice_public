@@ -1,5 +1,3 @@
-# 作者：Alex
-# 2024/10/17 06:05
 from statistics import median
 from typing import List
 

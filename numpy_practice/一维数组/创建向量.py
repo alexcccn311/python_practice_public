@@ -1,5 +1,3 @@
-# 作者：Alex
-# 2024/10/13 19:23
 import numpy as np
 a = np.array([1,2,3],dtype=np.uint32)
 c = np.array(('-4','5','312'),dtype=np.int16)

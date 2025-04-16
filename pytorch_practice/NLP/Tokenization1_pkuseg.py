@@ -1,5 +1,3 @@
-# 作者：Alex
-# 2025/2/15 23:20
 import pkuseg
 
 input_file = r'D:\git\gitstorege\data\knowledge_base\txt\如何训练厕奴\如何训练厕奴简体.txt'

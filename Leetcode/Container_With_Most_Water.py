@@ -1,5 +1,3 @@
-# 作者：Alex
-# 2025/4/5 11:50
 def container_with_most_water(height):
     max_water = 0
     # for i in range(len(height) - 1):

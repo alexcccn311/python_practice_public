@@ -1,5 +1,3 @@
-# 作者：Alex
-# 2024/10/15 04:17
 import numpy as np
 a = np.array([[1,2],[3,4]])
 b = np.ones((1,2))

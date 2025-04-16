@@ -1,5 +1,3 @@
-# 作者：Alex
-# 2025/2/11 00:44
 import torch
 import visdom
 from torch import nn

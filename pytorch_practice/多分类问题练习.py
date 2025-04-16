@@ -1,5 +1,3 @@
-# 作者：Alex
-# 2025/1/14 11:50
 import torch
 import torch.nn.functional as F
 import torch.nn as nn

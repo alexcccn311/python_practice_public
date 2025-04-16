@@ -1,5 +1,3 @@
-# 作者：Alex
-# 2024/12/13 09:28
 import numpy as np
 import matplotlib.pyplot as plt
 

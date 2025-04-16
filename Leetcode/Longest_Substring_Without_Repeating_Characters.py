@@ -1,5 +1,3 @@
-# 作者：Alex
-# 2024/10/17 05:20
 """class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         max_length = 0

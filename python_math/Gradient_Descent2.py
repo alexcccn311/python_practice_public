@@ -1,5 +1,3 @@
-# 作者：Alex
-# 2024/12/14 12:50
 import numpy as np
 import random
 import matplotlib.pyplot as plt

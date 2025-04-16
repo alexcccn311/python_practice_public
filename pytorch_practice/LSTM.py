@@ -1,5 +1,3 @@
-# 作者：Alex
-# 2025/2/17 10:11
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -33,6 +31,6 @@ output, _ = pad_packed_sequence(packed_output, batch_first=True)
 
 print(packed_output.data.shape) #不包含padding,并且将batch_size维度压缩掉了.
 print(output.shape) #包含padding
-# print(h_n.shape)
-# print(c_n.shape)
+print(h_n.shape)
+print(c_n.shape)
 

@@ -1,5 +1,3 @@
-# 作者：Alex
-# 2025/4/5 16:41
 def int_to_roman(num: int) -> str:
     a, b, c, d = num // 1000, (num % 1000) // 100, (num % 100) // 10, num % 10
     k = 'M' * a

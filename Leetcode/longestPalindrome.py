@@ -1,5 +1,3 @@
-# 作者：Alex
-# 2024/10/24 09:08
 class Solution:
     def longestPalindrome(self, s: str) -> str:
         max_str = len(s)

@@ -1,5 +1,3 @@
-# 作者：Alex
-# 2024/10/20 01:48
 import numpy as np
 
 

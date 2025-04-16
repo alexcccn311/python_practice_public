@@ -1,5 +1,3 @@
-# 作者：Alex
-# 2025/3/3 17:18
 import random
 import copy
 

@@ -1,5 +1,3 @@
-# 作者：Alex
-# 2024/10/15 16:39
 class Solution:
     @staticmethod
     def twosum(self, nums, target) -> list:

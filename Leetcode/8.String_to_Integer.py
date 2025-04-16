@@ -1,5 +1,3 @@
-# 作者：Alex
-# 2024/10/27 04:12
 """class Solution:
     def myAtoi(self, s: str) -> int:
         s = s.strip()

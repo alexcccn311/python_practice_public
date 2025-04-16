@@ -1,5 +1,3 @@
-# 作者：Alex
-# 2025/1/11 05:19
 import torch
 from torch.nn import functional as F
 import random

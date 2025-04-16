@@ -1,5 +1,3 @@
-# 作者：Alex
-# 2024/12/13 09:50
 import torch
 import random
 

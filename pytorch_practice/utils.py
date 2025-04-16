@@ -1,5 +1,3 @@
-# 作者：Alex
-# 2024/12/23 14:29
 import torch
 import matplotlib.pyplot as plt
 

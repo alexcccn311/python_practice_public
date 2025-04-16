@@ -1,5 +1,3 @@
-# 作者：Alex
-# 2025/1/12 13:24
 import random
 import numpy as np
 import torch

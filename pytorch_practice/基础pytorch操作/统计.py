@@ -1,5 +1,3 @@
-# 作者：Alex
-# 2025/1/9 23:21
 import torch
 
 # a = torch.full([8],-2.0)

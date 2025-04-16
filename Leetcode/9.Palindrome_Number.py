@@ -1,5 +1,3 @@
-# 作者：Alex
-# 2024/10/28 12:31
 class Solution:
     def isPalindrome(self, x: int) -> bool:
         if x < 0: return False
